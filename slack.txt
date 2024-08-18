@@ -1,0 +1,2 @@
+xoxb-not-a-real-bot-token
+xoxp-not-a-real-personal-token
